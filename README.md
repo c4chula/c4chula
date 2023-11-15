@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align=center>
+  <a href="https://github.com/c4chula">
+    <img src="https://avatars.githubusercontent.com/u/114879268?v=4" width=100px style="border-radius:50%">
+  </a>
+</div>
 
-<!--
-**c4chula/c4chula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  <p><i>I'm <del>good</del> Python Backend Developer (And I'm not ashamed of it).</i></p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+<picture align=center>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=c4chula&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=c4chula&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=c4chula&show_icons=true&rank_icon=github">
+</picture>
+</div>
